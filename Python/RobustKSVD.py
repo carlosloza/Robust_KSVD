@@ -1,3 +1,8 @@
+""" Robust Dictionary Learning algorithms
+"""
+# Author: Carlos Loza
+# carlos85loza@gmail.com
+
 import numpy as np
 from sklearn.linear_model import OrthogonalMatchingPursuit
 from sklearn.decomposition import TruncatedSVD
